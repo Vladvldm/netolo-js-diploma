@@ -7,7 +7,7 @@
 - Верстка
 - Backend
 
-- [github-pages](https://vladvldm.github.io/netolo-js-diploma/#)
+- Проект:-> [github-pages](https://vladvldm.github.io/netolo-js-diploma/#) <-
 
 - ### Используемые технологии в проекте:
 
