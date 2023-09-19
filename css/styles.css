@@ -411,7 +411,7 @@ body {
   height: 20rem;
 }
 
-@media screen and (min-width: 479px) {
+@media screen and (min-width: 480px) {
   .page-nav .page-nav__day {
     padding: 1rem 2rem;
   }
@@ -443,4 +443,22 @@ body {
   pointer-events: none
 }
 
+/*================================================================*/
 
+@media screen and (max-width: 479px) {
+  .movie__info {
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
+  .conf-step__chair {
+    width: 5.5vw;
+    height: 5.5vw;
+  }
+  .movie .movie__info {
+    display: inline-block;
+  }
+  .page-nav .page-nav__day {
+    font-size: 1.4rem;
+    flex-wrap: wrap;
+  }
+}
